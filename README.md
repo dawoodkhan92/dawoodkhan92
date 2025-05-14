@@ -5,7 +5,6 @@ I create autonomous agents using FastAPI and AI to streamline workflows end-to-e
 Always experimenting, exploring, and collaborating on fresh, open-source AI ideas.
 
 **🌟 Let’s build something awesome together!**  
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=dawoodkhan92&theme=flat)
 
 **🤝 Join the mission:**  
 Check out my latest demo, [Agent-Infinity on Devpost](https://devpost.com/dawoodkhan92)
