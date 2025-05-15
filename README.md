@@ -1,7 +1,7 @@
 # Hi, I’m Dawood Khan 👋 🚀
 
-**✨ Building AI-powered tools to automate life’s boring bits.**  
-I create autonomous agents using FastAPI and AI to streamline workflows end-to-end.  
+**✨ Building AI-powered tools & Agents to automate business & life’s boring bits.**  
+  
 Always experimenting, exploring, and collaborating on fresh, open-source AI ideas.
 
 **🌟 Let’s build something awesome together!**  
