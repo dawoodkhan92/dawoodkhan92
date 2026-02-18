@@ -8,8 +8,6 @@ Electronic engineer turned AI builder — I experiment with agents, automation w
 
 ### 🔨 What I'm building
 
-- **[clawdbot](https://github.com/dawoodkhan92/clawdbot)** — Personal AI assistant, any OS, any platform
-- **[open-whispr](https://github.com/dawoodkhan92/open-whispr)** — Privacy-first voice-to-text with local Whisper models
 - **Synthium** — AI operations platform *(in progress)*
 
 ### 🧰 Templates & Tools
