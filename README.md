@@ -1,22 +1,8 @@
-# Hi, I'm Dawood Khan 👋
+# Dawood Khan
 
-**Building AI-powered tools & agents to automate business operations.**
+Founder @ Synthium · Building AI automation systems
+Shipping tools and workflows with AI, fast.
 
-Electronic engineer turned AI builder — I experiment with agents, automation workflows, and AI-native products using Python and Claude.
+Open to collaborating — if you're building with AI, let's connect.
 
----
-
-### 🔨 What I'm building
-
-- **Synthium** — AI operations platform *(in progress)*
-
-### 🧰 Templates & Tools
-
-- **[mcp-boilerplate](https://github.com/dawoodkhan92/mcp-boilerplate)** — Cloudflare MCP server with auth + Stripe
-- **[MCP-Tool-Deployment-Template](https://github.com/dawoodkhan92/MCP-Tool-Deployment-Template)** — Deploy MCP tools with Docker/Railway
-- **[MVP-Starter](https://github.com/dawoodkhan92/MVP-Starter)** — Quick starter kit for fast MVP development
-
----
-
-🤝 Always open to collaborating on AI tools and automation ideas.  
-📬 Find me on [Devpost](https://devpost.com/dawoodkhan92)
+𝕏 [@dawoodkhan92](https://x.com/dawoodkhan92)
