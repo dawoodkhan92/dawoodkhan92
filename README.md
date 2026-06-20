@@ -1,17 +1,9 @@
 # Dawood Khan
 
-**Founder @ Synthium** · building AI automation systems.
-I ship small, sharp tools that take manual work off people's plates.
+I build small, focused services that solve a specific business problem — the kind that pays for itself.
 
-### What I'm building
+Founder @ **Synthium**. My bias is simple: does it move the number? Less manual work, faster turnaround, clear ROI — not tech for its own sake. AI just lets me ship that faster than used to be possible.
 
-| Project | What it does |
-| --- | --- |
-| [notion-cli](https://github.com/dawoodkhan92/notion-cli) | Fast Notion access for AI agents — one Bash call, zero MCP token overhead |
-| [MCP-Tool-Deployment-Template](https://github.com/dawoodkhan92/MCP-Tool-Deployment-Template) | Ship Model Context Protocol tools with Docker + Railway |
-| [Agent-infinity](https://github.com/dawoodkhan92/Agent-infinity) | WhatsApp support bot that turns a folder of agent tools into live endpoints |
-| [mockup-magic](https://github.com/dawoodkhan92/mockup-magic) | Upload a product photo, get studio-grade product photography with AI |
-
-Open to collaborating — if you're building with AI, let's connect.
+Got a messy, repetitive problem worth solving? Let's talk.
 
 𝕏 [@DAWOODK_AI](https://x.com/DAWOODK_AI)
